@@ -28,13 +28,7 @@ Thumbs.db
 .streamlit/config.toml
 
 # Model files and large datasets
-*.pkl
-*.h5
-*.joblib
-*.csv
-*.xlsx
-*.json
-*.zip
+
 
 # Logs and temp
 *.log
